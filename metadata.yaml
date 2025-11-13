@@ -1,0 +1,168 @@
+ID: "AUTO3019"
+SimilarID: []
+Name: "机器学习概论"
+CourseProperty:
+  Major:
+    - Year: "2021_2022"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3019"
+  CourseName: "机器学习概论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: "作业、期末报告、大作业都是三人一组"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "10"
+    - Name: "作业"
+      Percentage: "30"
+    - Name: "报告"
+      Percentage: "20"
+    - Name: "期末大作业"
+      Percentage: "40"
+  CourseHourComposition:
+    - Name: "课时构成元素1"
+      Hour: ""
+    - Name: "课时构成元素2"
+      Hour: ""
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3019"
+  CourseName: "机器学习概论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: "作业、期末报告、大作业都是三人一组"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "10"
+    - Name: "作业"
+      Percentage: "30"
+    - Name: "报告"
+      Percentage: "20"
+    - Name: "期末大作业"
+      Percentage: "40"
+  CourseHourComposition:
+    - Name: "课时构成元素1"
+      Hour: ""
+    - Name: "课时构成元素2"
+      Hour: ""
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3019"
+  CourseName: "机器学习概论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: "作业、期末报告、大作业都是三人一组"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "10"
+    - Name: "作业"
+      Percentage: "30"
+    - Name: "报告"
+      Percentage: "20"
+    - Name: "期末大作业"
+      Percentage: "40"
+  CourseHourComposition:
+    - Name: "课时构成元素1"
+      Hour: ""
+    - Name: "课时构成元素2"
+      Hour: ""
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化（第二学士学位）", "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3019"
+  CourseName: "机器学习概论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: "作业、期末报告、大作业都是三人一组"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "10"
+    - Name: "作业"
+      Percentage: "30"
+    - Name: "报告"
+      Percentage: "20"
+    - Name: "期末大作业"
+      Percentage: "40"
+  CourseHourComposition:
+    - Name: "课时构成元素1"
+      Hour: ""
+    - Name: "课时构成元素2"
+      Hour: ""
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3019"
+  CourseName: "机器学习概论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: "作业、期末报告、大作业都是三人一组"
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "平时"
+      Percentage: "10"
+    - Name: "作业"
+      Percentage: "30"
+    - Name: "报告"
+      Percentage: "20"
+    - Name: "期末大作业"
+      Percentage: "40"
+  CourseHourComposition:
+    - Name: "课时构成元素1"
+      Hour: ""
+    - Name: "课时构成元素2"
+      Hour: ""
