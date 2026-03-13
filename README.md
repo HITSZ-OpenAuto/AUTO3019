@@ -13,6 +13,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 熊昊
   <!-- TOML-ITEM: id="review-熊昊-1" -->
   - 有时考勤，发一张表格让大家写名字。
