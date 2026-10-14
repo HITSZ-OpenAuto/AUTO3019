@@ -1,0 +1,67 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763975305,
+    "hash": "9d29e9c95c6c5356704c4fb80ec2dd41131f8225"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1721901321,
+    "hash": "11f8868b14ef210c2dfa62579aad53646b98210e"
+  },
+  "README.md": {
+    "size": 1489,
+    "time": 1791961365,
+    "hash": "10d64178d85f461b588b6c41089fb9cf066cde7a"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737626358,
+    "hash": "c0f2bc77292d273cc978e777c62b1883f94ca46d"
+  },
+  "assignments/2024/Presentation.pptx": {
+    "size": 60415,
+    "time": 1738053275,
+    "hash": "d53673cea256868c9aeba0387309253f41d78f64"
+  },
+  "assignments/2024/hw1-图像分类作业代码.zip": {
+    "size": 47737349,
+    "time": 1738053275,
+    "hash": "d53673cea256868c9aeba0387309253f41d78f64"
+  },
+  "assignments/2024/hw3(作业说明看readme).zip": {
+    "size": 350160,
+    "time": 1738053275,
+    "hash": "d53673cea256868c9aeba0387309253f41d78f64"
+  },
+  "assignments/2024/课程设计作业-说明看readme.zip": {
+    "size": 746975,
+    "time": 1738053275,
+    "hash": "d53673cea256868c9aeba0387309253f41d78f64"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737626358,
+    "hash": "c0f2bc77292d273cc978e777c62b1883f94ca46d"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1721901321,
+    "hash": "11f8868b14ef210c2dfa62579aad53646b98210e"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737626358,
+    "hash": "c0f2bc77292d273cc978e777c62b1883f94ca46d"
+  },
+  "readme.toml": {
+    "size": 1460,
+    "time": 1773427984,
+    "hash": "12286334721cc9010fde77588f0372538a2b82e9"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737626358,
+    "hash": "c0f2bc77292d273cc978e777c62b1883f94ca46d"
+  }
+}
