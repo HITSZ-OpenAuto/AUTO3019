@@ -1,12 +1,5 @@
 # AUTO3019 - 机器学习概论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![平时10%](https://img.shields.io/badge/平时-10%25-wheat)
-![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
-![报告20%](https://img.shields.io/badge/报告-20%25-wheat)
-![期末大作业40%](https://img.shields.io/badge/期末大作业-40%25-wheat)
 
 这门课完全照搬国立台湾大学李宏毅教授的 2021 年春季机器学习课程，课程视频发布在 Youtube，B 站也有人搬运。
 强烈建议大家看网课而不是选你校这门二手课。
